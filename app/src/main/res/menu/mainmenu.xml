@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/frag4"
+        app:showAsAction="never"
+        android:title="Belanja"/>
+	<item
+        android:id="@+id/frag5"
+        app:showAsAction="never"
+        android:title="Produk"/>
+	<item
+		android:id="@+id/frag6"
+		app:showAsAction="never"
+		android:title="Laporan"/>
+</menu>
